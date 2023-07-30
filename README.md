@@ -2,4 +2,4 @@
 
 # Assignment Eposide-2
 - npm install 
--Added add files in .gitignore 
+- Added add files in .gitignore 
