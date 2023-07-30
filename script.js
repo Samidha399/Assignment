@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // const heading = document.createElement("h1");
 // heading.innerHTML = "Hello World from JavaScript!";
 // heading.style.cssText = "font-size:25px;color:green;";
